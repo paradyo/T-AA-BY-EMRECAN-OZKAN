@@ -1,0 +1,9 @@
+C:\Users\emrec\source\repos\CSharp Ödev 2\CSharp Ödev 2\bin\Release\CSharp Ödev 2.exe.config
+C:\Users\emrec\source\repos\CSharp Ödev 2\CSharp Ödev 2\bin\Release\CSharp Ödev 2.exe
+C:\Users\emrec\source\repos\CSharp Ödev 2\CSharp Ödev 2\bin\Release\CSharp Ödev 2.pdb
+C:\Users\emrec\source\repos\CSharp Ödev 2\CSharp Ödev 2\obj\Release\CSharp Ödev 2.csprojAssemblyReference.cache
+C:\Users\emrec\source\repos\CSharp Ödev 2\CSharp Ödev 2\obj\Release\CSharp_Ödev_2.Form11.resources
+C:\Users\emrec\source\repos\CSharp Ödev 2\CSharp Ödev 2\obj\Release\CSharp_Ödev_2.Properties.Resources.resources
+C:\Users\emrec\source\repos\CSharp Ödev 2\CSharp Ödev 2\obj\Release\CSharp Ödev 2.csproj.GenerateResource.cache
+C:\Users\emrec\source\repos\CSharp Ödev 2\CSharp Ödev 2\obj\Release\CSharp Ödev 2.exe
+C:\Users\emrec\source\repos\CSharp Ödev 2\CSharp Ödev 2\obj\Release\CSharp Ödev 2.pdb
